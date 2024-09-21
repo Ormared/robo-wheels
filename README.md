@@ -1,4 +1,9 @@
 # robo-wheels
+## Репозиторії
+- Server - [robo-wheel-server](https://github.com/Ormared/robo-wheel-server)
+- UI - [robo-wheel-ui](https://github.com/Ormared/robo-wheel-ui)
+
+
 
 ## Антени
 Рекомендації:
